@@ -1,0 +1,5 @@
+1) goto the server direcory
+2) rename env.example to .env
+3) do npm install
+4 run npm start
+you will see server running message
